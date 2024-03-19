@@ -2,6 +2,10 @@
 
 Este é um guia básico sobre os princípios SOLID, que são um conjunto de diretrizes para escrever código limpo, modular e de fácil manutenção.
 
+![solid](./img/solid.png)
+
+![history](./img/solid-history.png)
+
 ## S - Single Responsibility Principle (Princípio da Responsabilidade Única)
 
 Cada classe deve ter apenas uma responsabilidade. Isso facilita a manutenção, reutilização e testabilidade do código.
@@ -13,6 +17,10 @@ As entidades de software devem estar abertas para extensão, mas fechadas para m
 ## L - Liskov Substitution Principle (Princípio da Substituição de Liskov)
 
 As classes derivadas devem ser substituíveis por suas classes base sem afetar a integridade do sistema. Isso garante que o comportamento esperado seja mantido em todas as instâncias.
+
+Este principio garante que a herança foi realizada corretamente.
+
+[liskov](./img/liskov.png)
 
 ## I - Interface Segregation Principle (Princípio da Segregação de Interfaces)
 
