@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/f.domeneghetti@sp01.local/SSD1/Linux Totvs/Repository/cursos/FundamentosArquitetura/SOLID/SOLID.csproj": {}
+  },
+  "projects": {
+    "/media/f.domeneghetti@sp01.local/SSD1/Linux Totvs/Repository/cursos/FundamentosArquitetura/SOLID/SOLID.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/f.domeneghetti@sp01.local/SSD1/Linux Totvs/Repository/cursos/FundamentosArquitetura/SOLID/SOLID.csproj",
+        "projectName": "SOLID",
+        "projectPath": "/media/f.domeneghetti@sp01.local/SSD1/Linux Totvs/Repository/cursos/FundamentosArquitetura/SOLID/SOLID.csproj",
+        "packagesPath": "/home/f.domeneghetti@sp01.local/.nuget/packages/",
+        "outputPath": "/media/f.domeneghetti@sp01.local/SSD1/Linux Totvs/Repository/cursos/FundamentosArquitetura/SOLID/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/f.domeneghetti@sp01.local/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

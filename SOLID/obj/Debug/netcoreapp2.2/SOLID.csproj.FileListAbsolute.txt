@@ -1,0 +1,13 @@
+/home/fdomeneghetti/Repository/cursos/FundamentosArquitetura/SOLID/bin/Debug/netcoreapp2.2/SOLID.deps.json
+/home/fdomeneghetti/Repository/cursos/FundamentosArquitetura/SOLID/bin/Debug/netcoreapp2.2/SOLID.runtimeconfig.json
+/home/fdomeneghetti/Repository/cursos/FundamentosArquitetura/SOLID/bin/Debug/netcoreapp2.2/SOLID.runtimeconfig.dev.json
+/home/fdomeneghetti/Repository/cursos/FundamentosArquitetura/SOLID/bin/Debug/netcoreapp2.2/SOLID.dll
+/home/fdomeneghetti/Repository/cursos/FundamentosArquitetura/SOLID/bin/Debug/netcoreapp2.2/SOLID.pdb
+/home/fdomeneghetti/Repository/cursos/FundamentosArquitetura/SOLID/obj/Debug/netcoreapp2.2/SOLID.csproj.AssemblyReference.cache
+/home/fdomeneghetti/Repository/cursos/FundamentosArquitetura/SOLID/obj/Debug/netcoreapp2.2/SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/home/fdomeneghetti/Repository/cursos/FundamentosArquitetura/SOLID/obj/Debug/netcoreapp2.2/SOLID.AssemblyInfoInputs.cache
+/home/fdomeneghetti/Repository/cursos/FundamentosArquitetura/SOLID/obj/Debug/netcoreapp2.2/SOLID.AssemblyInfo.cs
+/home/fdomeneghetti/Repository/cursos/FundamentosArquitetura/SOLID/obj/Debug/netcoreapp2.2/SOLID.csproj.CoreCompileInputs.cache
+/home/fdomeneghetti/Repository/cursos/FundamentosArquitetura/SOLID/obj/Debug/netcoreapp2.2/SOLID.dll
+/home/fdomeneghetti/Repository/cursos/FundamentosArquitetura/SOLID/obj/Debug/netcoreapp2.2/SOLID.pdb
+/home/fdomeneghetti/Repository/cursos/FundamentosArquitetura/SOLID/obj/Debug/netcoreapp2.2/SOLID.genruntimeconfig.cache
